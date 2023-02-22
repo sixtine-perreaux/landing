@@ -1,0 +1,33 @@
+.btn-blue{
+	background-color:black;
+	padding:15px 20px;
+	border-radius:4px;
+	color: rgb(230, 230, 230);
+	font-weight: bold;
+	font-family: 'Lora', serif;
+}
+
+.btn-blue:hover{
+	color:white;
+	background-color: rgb(230, 230, 230);
+	
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: rgb(230, 230, 230);
+}
+
+.list-inline i:hover {
+	color: black;
+}
